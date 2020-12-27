@@ -3,22 +3,22 @@
     "path": "D:/Srishti/Year 2 Semester 1/Personal/Emails/config.yaml",
     "project_path": "config.yaml",
     "type": "yaml",
-    "hash": "3042716716",
+    "hash": "1471766153",
     "contents": "",
     "dirty": false,
     "created": 1609052568888.0,
     "source_on_save": false,
     "relative_order": 9,
     "properties": {
-        "cursorPosition": "34,54",
-        "scrollLine": "28"
+        "cursorPosition": "0,10",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1609058045,
+    "lastKnownWriteTime": 1609060294,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1609058045431,
+    "last_content_update": 1609060294459,
     "read_only": false,
     "read_only_alternatives": []
 }

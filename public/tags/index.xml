@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on You&#39;re a Wizard</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on You&#39;re a Wizard</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Aman Bhargava</copyright>
+    <lastBuildDate>Tue, 16 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>funny</title>
+      <link>/tags/funny/</link>
+      <pubDate>Tue, 16 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/funny/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>geographical problems</title>
+      <link>/tags/geographical-problems/</link>
+      <pubDate>Fri, 12 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/geographical-problems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>problems</title>
+      <link>/tags/problems/</link>
+      <pubDate>Fri, 12 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/problems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pandemic</title>
+      <link>/tags/pandemic/</link>
+      <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/pandemic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>doubt</title>
+      <link>/tags/doubt/</link>
+      <pubDate>Sat, 28 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/doubt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hogwarts</title>
+      <link>/tags/hogwarts/</link>
+      <pubDate>Sat, 22 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/hogwarts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>buy</title>
+      <link>/tags/buy/</link>
+      <pubDate>Sat, 06 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/buy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>questions</title>
+      <link>/tags/questions/</link>
+      <pubDate>Wed, 22 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/questions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>owl</title>
+      <link>/tags/owl/</link>
+      <pubDate>Thu, 12 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/owl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>plot</title>
+      <link>/tags/plot/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>/tags/plot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R Markdown</title>
+      <link>/tags/r-markdown/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>/tags/r-markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>regression</title>
+      <link>/tags/regression/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>/tags/regression/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

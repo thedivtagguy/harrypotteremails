@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>owl on You&#39;re a Wizard</title>
+    <link>/tags/owl/</link>
+    <description>Recent content in owl on You&#39;re a Wizard</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Aman Bhargava</copyright>
+    <lastBuildDate>Thu, 12 May 2016 00:00:00 +0000</lastBuildDate><atom:link href="/tags/owl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Where am I supposed to buy an owl</title>
+      <link>/posts/post-1/</link>
+      <pubDate>Thu, 12 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/post-1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
