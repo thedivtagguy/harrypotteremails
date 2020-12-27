@@ -24,14 +24,14 @@ params:
     - icon: rss
       name: RSS
       url: /index.xml
-  subtitle: A few of the hundreds of emails I've received over the last 5 years from children around the world who believe that the website I made would really take them to Hogwarts. Sorry guys.
+  subtitle: A few of the hundreds of emails I've received over the last 5 years from children around the world who believe that the website I made would really take them to Hogwarts. Sorry guys. *2004 signups and counting.*
 menu:
   main:
     - name: All Emails
       url: /
       weight: 1
     - name: 🌟 Top Picks
-      url: /posts
+      url: /categories/top-pick/
       weight: 2
     - name: What The Heck is Going On?
       url: /about
