@@ -17,12 +17,26 @@
 				{{ end }}
 				<div class="matter">
 					<h1 class="title">{{ .Title }}</h1>
+					<br>
+					<span class="description">
+									{{ if isset .Params "description" }}
+										{{ .Description }}
+									{{ else if gt (countrunes .RawContent) 120 }}
+										{{ slicestr .RawContent 0 120 }}...
+									{{ else }}
+										{{ .RawContent }}
+									{{ end }}
+								</span>
 				</div>
+				
 			</div>
 					
 			<div class="markdown">
+			  
 				{{ .Content }}
 			</div>
+			<div class="sharing" align="center">{{ partial "share-buttons.html" . }}</div>
+
 
 			<div class="tags">
 				{{ if ne .Type "page" }}
