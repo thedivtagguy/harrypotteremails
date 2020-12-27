@@ -25,13 +25,13 @@ menu:
     - name: All Emails
       url: /
       weight: 1
-    - name: Top Picks
+    - name: 🌟 Top Picks
       url: /posts
       weight: 2
     - name: What The Heck is Going On?
       url: /about
       weight: 3
-    - name: Get Your Own Letter
+    - name: 📧 Get Your Own Letter
       url: http://hogwartsuk.weebly.com/admission.html
       weight: 4
 taxonomies:
