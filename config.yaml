@@ -8,14 +8,19 @@ pygmentsstyle: vs
 pygmentscodefences: yes
 pygmentscodefencesguesssyntax: yes
 googleAnalytics: UA-123-45
-disqusShortname: ink-demo
+disqusShortname: youreawizard
 params:
   avatar: https://i.imgur.com/zheWwPn.png
   disableDisqusTypes: page
   featherIconsCDN: yes
   mode: auto
   social:
-    
+    - icon: instagram
+      name: instagram
+      url: https://instagram.com/thedivtagguy
+    - icon: twitter
+      name: Twitter
+      url: https://twitter.com/thedivtagguy
     - icon: rss
       name: RSS
       url: /index.xml
@@ -36,3 +41,4 @@ menu:
       weight: 4
 taxonomies:
   tag: tags
+  category: categories
