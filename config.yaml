@@ -10,7 +10,7 @@ pygmentscodefencesguesssyntax: yes
 googleAnalytics: UA-123-45
 disqusShortname: ink-demo
 params:
-  avatar: http://pixelartmaker.com/art/64b194b55f8b5db.png
+  avatar: https://i.imgur.com/zheWwPn.png
   disableDisqusTypes: page
   featherIconsCDN: yes
   mode: auto
