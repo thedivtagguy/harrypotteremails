@@ -3,13 +3,16 @@
     "path": "D:/Srishti/Year 2 Semester 1/Personal/Emails/index.Rmd",
     "project_path": "index.Rmd",
     "type": "r_markdown",
-    "hash": "1542943790",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1609045538036.0,
     "source_on_save": false,
     "relative_order": 2,
-    "properties": {},
+    "properties": {
+        "cursorPosition": "2,0",
+        "scrollLine": "0"
+    },
     "folds": "",
     "lastKnownWriteTime": 1609045439,
     "encoding": "UTF-8",

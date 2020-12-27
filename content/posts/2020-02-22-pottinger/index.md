@@ -4,9 +4,9 @@ title: Hey,Good morning.... Thank you so much for accepting me at your school, i
 author: Aman Bhargava
 date: '2020-02-22'
 slug: []
-categories: []
+categories:
+  - top pick
 tags:
   - picks
-draft: yes
 ---
 

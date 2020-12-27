@@ -1,13 +1,12 @@
 ---
-description: DragoGamer231, Who Called It a Frod. [Click for Thread]
 title: This is frod I know
 author: Aman Bhargava
 date: '2020-06-14'
-slug: []
-categories: []
+categories:
+  - top pick
 tags:
   - funny
-draft: yes
+description: DragoGamer231, Who Called It a Frod. [Click for Thread]
 ---
 
 ## So I told him: 

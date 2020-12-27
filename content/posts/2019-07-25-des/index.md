@@ -4,8 +4,8 @@ title: Thank you admission team for accepting me into the noble Hogwarts School 
 author: Aman Bhargava
 date: '2019-07-25'
 slug: []
-categories: []
+categories:
+  - top pick
 tags: []
-draft: yes
 ---
 

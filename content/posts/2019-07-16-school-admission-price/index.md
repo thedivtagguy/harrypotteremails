@@ -4,10 +4,10 @@ title: School admission price?
 author: Aman Bhargava
 date: '2019-07-16'
 slug: []
-categories: []
+categories:
+  - top pick
 tags:
   - doubt
   - picks
-draft: yes
 ---
 

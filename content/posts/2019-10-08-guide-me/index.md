@@ -4,8 +4,8 @@ title: Dear honourable professor . i really wanna learn magic from your hogwarts
 author: Aman Bhargava
 date: '2019-10-08'
 slug: []
-categories: []
+categories:
+  - top pick
 tags: []
-draft: yes
 ---
 

@@ -4,11 +4,11 @@ title: Do you have any. Prove that I have been accepted
 author: Aman Bhargava
 date: '2020-06-21'
 slug: []
-categories: []
+categories: 
+  - top pick
 tags:
   - funny
   - doubt
-draft: yes
 ---
 
 ## So I Said: 
