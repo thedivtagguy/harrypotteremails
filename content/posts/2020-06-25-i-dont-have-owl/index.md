@@ -1,5 +1,5 @@
 ---
-description: Suman. Same bro. [Click for Thread]
+description: Suman. Same bro. [Click for A Thread About Cows]
 title: I dont have owl Can you send anyone to pick up me
 author: Aman Bhargava
 date: '2020-06-25'
