@@ -1,4 +1,4 @@
-baseURL: ""
+baseURL: "http://youreawizard.email"
 languageCode: en-us
 title: You're a Wizard
 theme: hugo-ink
