@@ -1,24 +1,24 @@
 {
-    "id": "D21A6CC6",
+    "id": "F1C15552",
     "path": "D:/Srishti/Year 2 Semester 1/Personal/Emails/config.yaml",
     "project_path": "config.yaml",
     "type": "yaml",
     "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1609052568888.0,
+    "created": 1609063911016.0,
     "source_on_save": false,
-    "relative_order": 9,
+    "relative_order": 8,
     "properties": {
-        "cursorPosition": "0,35",
-        "scrollLine": "26"
+        "cursorPosition": "0,37",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1609063425,
+    "lastKnownWriteTime": 1609063915,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1609063425,
+    "last_content_update": 1609063916063,
     "read_only": false,
     "read_only_alternatives": []
 }
