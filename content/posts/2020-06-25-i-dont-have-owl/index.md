@@ -24,4 +24,12 @@ Send sir.
 We will be sending our Pick-up Cow. Please await further instructions.
 ```
 
-He didn't reply. Sorry Suman.
+## To which he said: 
+
+```
+Okay thnk you.
+
+Tell me time and when.
+```
+
+Well played.
