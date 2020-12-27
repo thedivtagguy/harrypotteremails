@@ -1,0 +1,38 @@
+baseURL: http://example.org/
+languageCode: en-us
+title: You're a Wizard
+theme: hugo-ink
+paginate: 5
+copyright: © Aman Bhargava
+pygmentsstyle: vs
+pygmentscodefences: yes
+pygmentscodefencesguesssyntax: yes
+googleAnalytics: UA-123-45
+disqusShortname: ink-demo
+params:
+  avatar: http://pixelartmaker.com/art/64b194b55f8b5db.png
+  disableDisqusTypes: page
+  featherIconsCDN: yes
+  mode: auto
+  social:
+    
+    - icon: rss
+      name: RSS
+      url: /index.xml
+  subtitle: A few of the hundreds of emails I've received over the last 5 years from children around the world who believe that the website I made would really take them to Hogwarts. Sorry guys.
+menu:
+  main:
+    - name: All Emails
+      url: /
+      weight: 1
+    - name: Top Picks
+      url: /posts
+      weight: 2
+    - name: What The Heck is Going On?
+      url: /about
+      weight: 3
+    - name: Get Your Own Letter
+      url: http://hogwartsuk.weebly.com/admission.html
+      weight: 4
+taxonomies:
+  tag: tags

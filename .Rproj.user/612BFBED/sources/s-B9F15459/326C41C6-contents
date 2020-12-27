@@ -1,0 +1,61 @@
+library(tidyverse)
+
+emails <- read.csv("D:/Harry_Potter.csv", header = FALSE)
+emails2 <- as.data.frame(emails)
+
+
+emails2$V6 <- gsub("(.*\n\n((^>+\\s{1}.*$)+\n?)+)", '', emails2$V6)
+
+email <- "I accept the terms and conditions of Hogwarts
+On 12-May-2016 6:11 pm, Hogwarts School of Witchcraft and Wizardry <
+no-reply@wufoo.com> wrote:
+
+> HOGWARTS SCHOOL of WITCHCRAFT and WIZARDRY
+>
+> Headmaster: Albus Dumbledore
+> (Order of Merlin, First Class, Grand Sorc., Chf. Warlock,
+> Supreme Mugwump, International Confed. of Wizards)
+>
+> Dear Student,
+>
+> We are pleased to inform you that you have been accepted at Hogwarts
+> School of Witchcraft and Wizardry. Please find enclosed a list of all
+> necessary books and equipment.
+>
+> Term begins on 1 September. We await your owl by no later than 31 July.
+>
+>
+> Yours sincerely,
+>
+> [image: image]
+>
+> Minerva McGonagall
+>
+> Deputy Headmistress
+>
+> Here is your ticket for the Hogwarts Express:
+>
+> [image: image]
+>
+>
+> Acceptance Letter Request
+> Name * Saamarthye' Bir Pratap Singh
+> Email samarrish2005@gmail.com
+> My parents are: *
+>
+>    - Both Muggles
+>
+> Please check so that we know that you understand that you are NOT allowed
+> to bring broomsticks as a 1st year: *
+> I Understand
+> ------------------------------
+> <http://www.wufoo.com/?wfcmpid=logo_email_notification>
+>
+> This email notification is powered by *Wufoo*, the free online form
+> builder.
+> Make your own HTML forms for free at wufoo.com
+> <http://www.wufoo.com/?wfcmpid=link_email_notification>
+> Get Started! <http://www.wufoo.com/?wfcmpid=button_email_notification>
+>
+"
+
