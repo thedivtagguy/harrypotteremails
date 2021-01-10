@@ -14,7 +14,7 @@ tags:
 ## So I Said: 
 
 ```
-I am the prof, son.
+I am the proof, son.
 ```
 
 ## To Which She Said: 
