@@ -34,7 +34,7 @@ menu:
       url: /categories/top-pick/
       weight: 2
     - name: What The Heck is Going On?
-      url: /about
+      url: http://theyellipages.in/issue7/#harry
       weight: 3
     - name: 📧 Get Your Own Letter
       url: http://hogwartsuk.weebly.com/admission.html
